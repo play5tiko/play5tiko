@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @play5tiko
-- 🌱 I’m currently learning python
-- 📫 How to reach me:
-      - Discord: tiko#4387
+
